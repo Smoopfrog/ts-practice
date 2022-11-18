@@ -10,6 +10,14 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smoopfrog/ts-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Smoopfrog/ts-practice/issues"
+  },
+  "homepage": "https://github.com/Smoopfrog/ts-practice#readme"
 }
